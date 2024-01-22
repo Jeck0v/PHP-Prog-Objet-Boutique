@@ -1,5 +1,5 @@
 <?php
-//ARNAUD FISCHER WEB1 gr1
+//créer un dossier class et y mettre tout les autre fichier sauf index.php
 require_once ('./class/Boutique.php');
 require_once ('./class/Client.php');
 
